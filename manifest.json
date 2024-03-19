@@ -1,11 +1,11 @@
 {
 	"id": "obsidian-example-plugin",
-	"name": "Example Plugin",
-	"version": "1.0.0",
+	"name": "Annotation Text Hover",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is an example plugin for Obsidian. This plugin counts the lines of the active file and prints it in the status bar.",
-	"author": "Florian Ludewig",
-	"authorUrl": "https://flolu.de",
-	"fundingUrl": "https://flolu.de/donations",
+	"description": "This is my first Obsidian plugin! It wraps selected text in article tag to add hover effect.",
+	"author": "Nikolai Khalatiani",
+	"authorUrl": "N/A",
+	"fundingUrl": "N/A",
 	"isDesktopOnly": false
 }
